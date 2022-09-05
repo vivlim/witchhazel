@@ -74,6 +74,9 @@ call <SID>X("Visual", s:purps, s:amethyst, "")
 call <SID>X("Todo", s:brick, s:purps, "bold")
 call <SID>X("Error", s:rouge, s:midnight, "")
 
+call <SID>X("Pmenu", s:lilac, s:amethyst, "")
+call <SID>X("PmenuSel", s:amethyst, s:lilac, "")
+
 call <SID>X("pythonSpaceError", "", s:clay, "")
 
 "hi def link pythonDecoratorName         Define
